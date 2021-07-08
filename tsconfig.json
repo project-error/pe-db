@@ -1,0 +1,15 @@
+{
+  "include": [
+    "src"
+  ],
+  "target": "es2018",
+  "compilerOptions": {
+    "lib": ["ES2018"],
+    "module": "CommonJS",
+    "strict": true,
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "resolveJsonModule": false
+  },
+  "exclude": ["node_modules"]
+}
