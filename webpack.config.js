@@ -1,33 +1,28 @@
-const path = require('path')
-const { CleanWebpackPlugin } = require('clean-webpack-plugin')
-const { ProgressPlugin } = require('webpack')
+const path = require('path');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const { ProgressPlugin } = require('webpack');
 
 module.exports = {
   entry: './src/index.ts',
   output: {
-    filename: "[contenthash].js",
-    path: path.join(__dirname, 'dist')
+    filename: '[contenthash].js',
+    path: path.join(__dirname, 'dist'),
   },
   module: {
     rules: [
       {
         test: /\.ts?$/,
         use: ['ts-loader'],
-        exclude: /node_modules/
-      }
-    ]
+        exclude: /node_modules/,
+      },
+    ],
   },
   optimization: {
-    minimize: true
+    minimize: true,
   },
   resolve: {
-    extensions: ['.ts']
+    extensions: ['.ts', '.js'],
   },
-  plugins: [
-    new CleanWebpackPlugin({
-
-    }),
-    new ProgressPlugin()
-  ],
-  target: 'node'
-}
+  plugins: [new CleanWebpackPlugin({}), new ProgressPlugin()],
+  target: 'node',
+};

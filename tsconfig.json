@@ -1,15 +1,16 @@
 {
-  "include": [
-    "src"
-  ],
   "target": "es2018",
   "compilerOptions": {
-    "lib": ["ES2018"],
+    "lib": ["ES2018", "DOM"],
     "module": "CommonJS",
     "strict": true,
     "moduleResolution": "Node",
     "esModuleInterop": true,
-    "resolveJsonModule": false
+    "resolveJsonModule": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "types": ["@citizenfx/server"]
   },
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules"],
+  "include": ["src"]
 }
