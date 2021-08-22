@@ -14,14 +14,24 @@ type IConvarItems = {
 export enum ConvarEnums {
   Connection = 'Connection',
   DebugMode = 'DebugMode',
+  ProfilerEnabled = 'ProfilerOn',
+  ProfilerLog = 'ProfilerLog',
 }
 
 export const ConvarItems: IConvarItems = {
   [ConvarEnums.Connection]: {
     type: 'string',
-    default: '',
+    default: 'mysql://localhost:3306/database',
   },
   [ConvarEnums.DebugMode]: {
+    type: 'int',
+    default: 0,
+  },
+  [ConvarEnums.ProfilerEnabled]: {
+    type: 'int',
+    default: 0,
+  },
+  [ConvarEnums.ProfilerLog]: {
     type: 'int',
     default: 0,
   },

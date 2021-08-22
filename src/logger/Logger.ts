@@ -1,56 +1,35 @@
-import { delay, inject, injectable, singleton } from 'tsyringe';
+import { delay, inject, injectable } from 'tsyringe';
 import { Config } from '../config/Config';
-import { LoggerLevels, PrintOptions } from './logger.types';
-import { CfxConsoleColors, colorize } from '../utils/colors';
+import { mainLogger } from './winston.logger';
 
 @injectable()
-@singleton()
 export class Logger {
+  private readonly winstonLogger = mainLogger;
+  private moduleName = 'Unknown';
+
   constructor(
     @inject(delay(() => Config))
-    private readonly config: Config
-  ) {
-    this.moduleStart('logger');
+    private readonly config?: Config
+  ) {}
+
+  public setModuleName(name: string): void {
+    this.moduleName = name;
   }
 
-  private printConsole(msg: string, opts: PrintOptions): void {
-    const colorizedMsg = colorize(msg, opts.color);
-
-    console.log(colorizedMsg);
+  public error(msg: any): void {
+    this.winstonLogger.error(msg);
   }
 
-  private writeToLog(msg: string, opts: PrintOptions): void {
-    const level = opts.level;
-    const taggedMsg = `[${LoggerLevels[level]}] ${msg}`;
-    this.printConsole(taggedMsg, opts);
+  public debug(msg: any): void {
+    this.winstonLogger.debug(msg);
   }
 
-  public error(msg: string): void {
-    this.writeToLog(msg, {
-      level: LoggerLevels.ERROR,
-      color: CfxConsoleColors.Blue,
-    });
+  public warning(msg: any): void {
+    this.winstonLogger.warn(msg);
   }
 
-  public debug(msg: string): void {
-    this.writeToLog(msg, {
-      level: LoggerLevels.DEBUG,
-      color: CfxConsoleColors.Blue,
-    });
-  }
-
-  public warning(msg: string): void {
-    this.writeToLog(msg, {
-      level: LoggerLevels.WARNING,
-      color: CfxConsoleColors.Yellow,
-    });
-  }
-
-  public info(msg: string): void {
-    this.writeToLog(msg, {
-      level: LoggerLevels.INFO,
-      color: CfxConsoleColors.Green,
-    });
+  public info(msg: any): void {
+    this.winstonLogger.info(msg);
   }
 
   public moduleStart(module: string): void {

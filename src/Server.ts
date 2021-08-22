@@ -9,7 +9,12 @@ export class Server {
     this.logger.moduleStart('server');
   }
 
-  public start(): void {
-    console.log('Started');
+  public async start(): Promise<void> {
+    try {
+      await this.database.attemptInitialConnect();
+      this.logger.info('Initial Setup Sucessful!');
+    } catch (e) {
+      this.logger.error(e.message);
+    }
   }
 }

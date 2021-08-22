@@ -1,9 +1,10 @@
 import { ConvarEnums, ConvarItems, FoundConvarItem } from '../types/ConvarItems';
 import { PEConstants } from '../utils/constants';
 import { Logger } from '../logger/Logger';
-import { delay, inject, injectable } from 'tsyringe';
+import { delay, inject, injectable, singleton } from 'tsyringe';
 
 @injectable()
+@singleton()
 export class Config {
   public ConfigInfo = new Map<keyof typeof ConvarEnums | string, FoundConvarItem>();
 

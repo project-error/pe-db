@@ -1,0 +1,316 @@
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:27:04.651Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:27:04.652Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:27:04.653Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:27:04.653Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:27:04.655Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:27:04.657Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:27:36.263Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:27:36.264Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:27:36.265Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:27:36.265Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:27:36.267Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:27:36.269Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:27:36.269Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:33:27.718Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:33:27.720Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:33:27.720Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:33:27.720Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:33:27.723Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:33:27.725Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:34:10.549Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:34:10.551Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:34:10.552Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:34:10.552Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:34:10.555Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:34:10.557Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:34:21.717Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:34:21.719Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:34:21.719Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:34:21.720Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:34:21.722Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:34:21.724Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:35:53.067Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:35:53.068Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:35:53.069Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:35:53.069Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:35:53.072Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:35:53.075Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:37:35.203Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:37:35.205Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:37:35.205Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:37:35.205Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:37:35.208Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:37:35.209Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:37:48.482Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:37:48.484Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:37:48.484Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:37:48.484Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:37:48.487Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:37:48.489Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:38:07.126Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:38:07.128Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:38:07.128Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:38:07.128Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:38:07.131Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:38:07.132Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:39:01.203Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:39:01.205Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:39:01.205Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:39:01.205Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:39:01.207Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:39:01.209Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:39:39.169Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:39:39.171Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:39:39.171Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:39:39.171Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:39:39.174Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:39:39.176Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:40:14.879Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:40:14.881Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:40:14.881Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:40:14.881Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:40:14.884Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:40:14.885Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:41:08.044Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:41:08.047Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:41:08.047Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:41:08.047Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:41:08.050Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:41:08.052Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T19:42:00.303Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:42:00.304Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T19:42:00.305Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T19:42:00.305Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T19:42:00.307Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T19:42:00.309Z"}
+{"message":"Query \"TEST STATEMENT\" failed, Access denied for user ''@'localhost' (using password: NO)","level":"error","timestamp":"2021-08-22T19:42:01.256Z"}
+{"message":"Query \"TEST STATEMENT\" failed, Access denied for user ''@'localhost' (using password: NO)","level":"error","timestamp":"2021-08-22T19:53:12.148Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:03:00.044Z"}
+{"message":{"type":"string","default":"mysql://localhost:3306/database","value":"mysql://dev:devlocal@localhost/99_doesnt_commit"},"level":"debug","timestamp":"2021-08-22T20:03:00.046Z"}
+{"message":{"type":"int","default":0,"value":0},"level":"debug","timestamp":"2021-08-22T20:03:00.046Z"}
+{"message":{"type":"int","default":0,"value":0},"level":"debug","timestamp":"2021-08-22T20:03:00.046Z"}
+{"message":{"type":"int","default":0,"value":0},"level":"debug","timestamp":"2021-08-22T20:03:00.046Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:03:00.047Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:03:00.047Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:03:00.047Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:03:00.050Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:03:00.051Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:04:33.226Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:04:33.228Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:04:33.228Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:04:33.228Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:04:33.230Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:04:33.232Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:04:59.261Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:04:59.263Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:04:59.263Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:04:59.263Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:04:59.266Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:04:59.267Z"}
+{"message":"Query \"FETCH * F\" failed, You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FETCH * F' at line 1","level":"error","timestamp":"2021-08-22T20:05:02.702Z"}
+{"message":"Query \"FETCH * F\" failed, You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FETCH * F' at line 1","level":"error","timestamp":"2021-08-22T20:11:27.033Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:11:51.921Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:11:51.923Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:11:51.923Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:11:51.923Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:11:51.926Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:11:51.928Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:12:29.941Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:12:29.942Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:12:29.943Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:12:29.943Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:12:29.945Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:12:29.947Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:12:46.593Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:12:46.595Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:12:46.595Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:12:46.596Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:12:46.598Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:12:46.599Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:14:23.429Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:14:23.431Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:14:23.431Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:14:23.431Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:14:23.434Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:14:23.435Z"}
+{"message":"[pe-db] 0.1716ms | SELECT * FROM accounts ","level":"info","timestamp":"2021-08-22T20:14:26.723Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:18:02.762Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:18:02.764Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:18:02.764Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:18:02.764Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:18:02.766Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:18:02.769Z"}
+{"message":"[pe-db] 0.1855ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:18:07.572Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:23:33.226Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:23:33.228Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:23:33.228Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:23:33.229Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:23:33.231Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:23:33.233Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:23:57.742Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:23:57.745Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:23:57.745Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:23:57.745Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:23:57.747Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:23:57.750Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:26:39.194Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:26:39.196Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:26:39.196Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:26:39.196Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:26:39.199Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:26:39.201Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:27:36.666Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:27:36.667Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:27:36.667Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:27:36.668Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:27:36.669Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:27:36.670Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:27:56.816Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:27:56.818Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:27:56.818Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:27:56.818Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:27:56.820Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:27:56.823Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:28:18.652Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:28:18.653Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:28:18.653Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:28:18.654Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:28:18.655Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:28:18.656Z"}
+{"message":"[pe-db] 0.2602ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:28:20.792Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:29:27.860Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:29:27.862Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:29:27.862Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:29:27.862Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:29:27.864Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:29:27.866Z"}
+{"message":"[pe-db] 44.4938ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:29:29.240Z"}
+{"message":"[pe-db] 11.9981ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:29:56.231Z"}
+{"message":"[pe-db] 8.1043ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:29:58.668Z"}
+{"message":"[pe-db] 8.6912ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:29:59.585Z"}
+{"message":"[pe-db] 7.3846ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:00.347Z"}
+{"message":"[pe-db] 4.4054ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:17.543Z"}
+{"message":"[pe-db] 4.2793ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:18.102Z"}
+{"message":"[pe-db] 5.464ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:18.612Z"}
+{"message":"[pe-db] 5.3868ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:19.685Z"}
+{"message":"[pe-db] 7.22ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:20.500Z"}
+{"message":"[pe-db] 4.8411ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:21.820Z"}
+{"message":"[pe-db] 4.4225ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:22.633Z"}
+{"message":"[pe-db] 5.6123ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:23.294Z"}
+{"message":"[pe-db] 4.8476ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:23.653Z"}
+{"message":"[pe-db] 4.417ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:23.958Z"}
+{"message":"[pe-db] 4.1937ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:24.215Z"}
+{"message":"[pe-db] 3.5619ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:30:26.564Z"}
+{"message":"[Average Query Time]\nAmount of Queries: 17\nTime (ms): 8.195505882352942","level":"info","timestamp":"2021-08-22T20:30:34.050Z"}
+{"message":"[Shortest Query]\nInvoked By Resource: pe-db\nTime in MS: 44493800\nQuery Statement: SELECT * FROM MOCK_DATA","level":"info","timestamp":"2021-08-22T20:30:57.858Z"}
+{"message":"[pe-db] 4.8833ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:31:25.381Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:31:29.750Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:31:29.752Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:31:29.752Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:31:29.752Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:31:29.755Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:31:29.757Z"}
+{"message":"[pe-db] 43.7717ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:31:37.617Z"}
+{"message":"[pe-db] 11.6177ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:31:45.331Z"}
+{"message":"[Shortest Query]\nInvoked By Resource: pe-db\nTime in MS: 43.7717\nQuery Statement: SELECT * FROM MOCK_DATA","level":"info","timestamp":"2021-08-22T20:31:52.446Z"}
+{"message":"[pe-db] 7.3669ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:34:50.982Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:34:54.785Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:34:54.787Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:34:54.787Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:34:54.788Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:34:54.790Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:34:54.792Z"}
+{"message":"[pe-db] 43.5726ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:34:56.626Z"}
+{"message":"[pe-db] 10.7747ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:34:58.175Z"}
+{"message":"[pe-db] 8.9229ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:34:59.293Z"}
+{"message":"[runcode] 11.4587ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:36:09.436Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:36:45.157Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:36:45.159Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:36:45.159Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:36:45.160Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:36:45.162Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:36:45.163Z"}
+{"message":"[runcode] 53.0395ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:36:50.334Z"}
+{"message":"[runcode] 11.5547ms | SELECT * FROM MOCK_DATA ","level":"info","timestamp":"2021-08-22T20:36:53.667Z"}
+{"message":"[runcode] 3.8501ms | SELECT * FROM MOCK_DATA WHERE email = ? ","level":"info","timestamp":"2021-08-22T20:42:54.468Z"}
+{"message":"[runcode] 3.8289ms | SELECT * FROM MOCK_DATA WHERE email = ? ","level":"info","timestamp":"2021-08-22T20:43:29.658Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:45:33.991Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:45:33.993Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:45:33.994Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:45:33.994Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:45:33.996Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:45:33.999Z"}
+{"message":null,"level":"debug","timestamp":"2021-08-22T20:45:37.305Z"}
+{"message":"[runcode] 26.5128ms | SELECT * FROM MOCK_DATA WHERE email = ? ","level":"info","timestamp":"2021-08-22T20:45:37.306Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:46:20.609Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:46:20.610Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:46:20.611Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:46:20.611Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:46:20.613Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:46:20.615Z"}
+{"message":[{"id":19,"first_name":"Tine","last_name":"Botting","email":"tbottingi@foxnews.com","gender":"Genderfluid","ip_address":"186.219.238.102"}],"level":"debug","timestamp":"2021-08-22T20:46:23.107Z"}
+{"message":"[runcode] 29.2982ms | SELECT * FROM MOCK_DATA WHERE email = ? ","level":"info","timestamp":"2021-08-22T20:46:23.108Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:46:36.455Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:46:36.457Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:46:36.457Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:46:36.457Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:46:36.460Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:46:36.462Z"}
+{"message":"[runcode] 26.2809ms | SELECT * FROM MOCK_DATA WHERE email = ? ","level":"info","timestamp":"2021-08-22T20:46:44.990Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:47:40.582Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:47:40.584Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:47:40.584Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:47:40.585Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:47:40.587Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:47:40.589Z"}
+{"message":"[runcode] 27.4008ms | SELECT * FROM MOCK_DATA WHERE email = ? ","level":"info","timestamp":"2021-08-22T20:47:42.516Z"}
+{"message":"[runcode] 4.0238ms | SELECT * FROM MOCK_DATA WHERE email = ? ","level":"info","timestamp":"2021-08-22T20:48:30.025Z"}
+{"message":"Query \"SELECT * FROM WHERE email = ?\" failed, You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE email = ?' at line 1","level":"error","timestamp":"2021-08-22T20:50:06.828Z"}
+{"message":"[runcode] 3.8714ms | SELECT * FROM WHERE email = ? ","level":"info","timestamp":"2021-08-22T20:50:06.829Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:51:36.803Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:51:36.804Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:51:36.804Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:51:36.805Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:51:36.807Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:51:36.809Z"}
+{"message":"[] Query \"SELECT * FROM WHERE email = ?\" failed, You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE email = ?' at line 1","level":"error","timestamp":"2021-08-22T20:51:45.229Z"}
+{"message":"[runcode] 25.7315ms | SELECT * FROM WHERE email = ? ","level":"info","timestamp":"2021-08-22T20:51:45.229Z"}
+{"message":"[] Query \"SELECT * FROM WHERE email = ?\" failed, You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE email = ?' at line 1","level":"error","timestamp":"2021-08-22T20:52:07.636Z"}
+{"message":"[runcode] 2.3287ms | SELECT * FROM WHERE email = ? ","level":"info","timestamp":"2021-08-22T20:52:07.636Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:52:21.335Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:52:21.337Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:52:21.337Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:52:21.337Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:52:21.340Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:52:21.341Z"}
+{"message":"[runcode] Query \"SELECT * FROM WHERE email = ?\" failed, Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE email = ?' at line 1","level":"error","timestamp":"2021-08-22T20:52:23.522Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:01.945Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:01.947Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:01.948Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:01.948Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:54:01.950Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:54:01.952Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:08.214Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:08.215Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:08.216Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:08.216Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:54:08.218Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:54:08.220Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:19.072Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:19.074Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:19.074Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:19.074Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:54:19.076Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:54:19.078Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:25.387Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:25.388Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:25.389Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:25.389Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:54:25.390Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:54:25.393Z"}
+{"message":"Module \"CONFIG\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:30.894Z"}
+{"message":"Module \"PROFILER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:30.896Z"}
+{"message":"Module \"DATABASE\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:30.897Z"}
+{"message":"Module \"SERVER\" has instantiated","level":"debug","timestamp":"2021-08-22T20:54:30.897Z"}
+{"message":"Initial Setup Sucessful!","level":"info","timestamp":"2021-08-22T20:54:30.899Z"}
+{"message":"PE-DB has fully started!","level":"info","timestamp":"2021-08-22T20:54:30.900Z"}
